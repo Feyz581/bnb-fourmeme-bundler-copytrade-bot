@@ -14,7 +14,7 @@ A professional-grade automated trading suite for **BNB Smart Chain**, featuring 
 
 </div>
 
-![img](https://i.imgur.com/GRJ6HHa.png)
+![img-banner](https://i.imgur.com/GRJ6HHa.png)
 ---
 
 ## ⚙️ Overview
